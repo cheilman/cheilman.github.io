@@ -1,7 +1,6 @@
-# Chris Heilman
+Chris Heilman
+=============
 
 [gimmick:theme](slate)
 
-[Home](index.md)
-[gimmick:themechooser](Choose theme)
-
+[Home](index.md)[gimmick:themechooser](Choose theme)
