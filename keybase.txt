@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/cheilman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cheilman.ater.org
+  * I am cheilman (https://keybase.io/cheilman) on keybase.
+  * I have a public key with fingerprint 065A 6F10 14C0 E5FA 0D32  4F00 3701 9C58 F21B 294B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010138f59b198f2b4816966161a87811fedbe5cb67999c8b14d5dfd4289418a853600a",
+            "fingerprint": "065a6f1014c0e5fa0d324f0037019c58f21b294b",
+            "host": "keybase.io",
+            "key_id": "37019c58f21b294b",
+            "kid": "010138f59b198f2b4816966161a87811fedbe5cb67999c8b14d5dfd4289418a853600a",
+            "uid": "baf2dbbd8a491eada2f4f0816d259419",
+            "username": "cheilman"
+        },
+        "service": {
+            "hostname": "cheilman.ater.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1482216208,
+    "expire_in": 157680000,
+    "prev": "fb9476b5cc8952237efa7b15e6e9270b693ff65318a1c300af28bca23f1fb962",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMImAnicrZJbSBVBGMePmlZKaVAZPRStEFlmO7O7s7uHIBWKCroRpNjlMLM7c86W
+7h737LGkDOzyUBRZYkUSWWRJFITQxfLBG5EZWAYVFiiViEUUREZk2qzUS/TYvAwz
+8///5v99fJ3TkgKpCTWtR2pbniQtSOhuq4sHioqeZewViGNWCMG9wi46sdESk8a8
+0C7LFIKCCEQgaUzRCdA1BomsAaQjBBDAmqoBwKhJqGIQpOq6bmgEyKZiMlOGmi4D
+DWuKhEQRCzkCs+wwdaOuZXs+FikYMc6WDZEqDIumBGUmipIqAt1Q+E+AQF0m3Bhx
+Yr6DhyM4RnMth9/xQ2gi3j/0/zl3fAJHMIMmIaaGZR1QbGLIeFzONKHCDbovjFHX
+xqWUq40ItUpKsS1U5gj8ttwyqN9Yv5K/FLnYo26u44Y5IOo6nmM4Jfw54nnRoO/2
+KqK+fDclod+gELFsk/eSG8qpG7McWwgCrjQ8yycDWYMQIChqOQLdE7VcGrJ8haIi
+TeTL/4aWcyQjuqwiohiGpisQSiplWCVAoYjqUBUJ0iXGkCLxZgBD4r1gUCMGhhID
+3Iqg4JdWZjtCUOYxcZgjY1bYxl7cpUJle+u2SYGE1EBKcqI/Y4HUqRl/Jm9h9eQx
+1FIL4PoGo2vFzoHVJ3vrkzrqv+4oAPnvXibeelgA+89cvZT/evOH+o/n89YuOjiS
+WTqz6f6bjtCU62t641kjq46nRfq+naiZk3I1s39L8qGlyrTmY8sWP34/sKGh+0hZ
+X3bkqUSXhw7UVVcf7RsbfVSV82LVsUPPN3WeGlp5J95adDtxx7poYONgXuGMDwK7
+9zb12pLLobamZvPHrK17WhsfXBR3dq/Y12WMrf/S/PLC9tH5Y+Hk9PHGj8PJrzBq
+i9Yujr4Qy6Se/enfP09PO/epXp1b3FWcP9Rrz6vCZ8ezrqw7XDUFn76bhoYrxgvR
+T3pjdoGcPdh0s7Lni9N++8TUXP0Xja9Dgw==
+=XDnI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cheilman
+
+==================================================================
